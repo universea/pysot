@@ -1,8 +1,8 @@
 # PySOT
 
-**PySOT** 是商汤视频智能研究团队设计的软件系统。它实现了最先进的目标跟踪算法, 包括[SiamRPN](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_High_Performance_Visual_CVPR_2018_paper.html) 和[SiamMask](https://arxiv.org/abs/1812.05050). 它是用Python语言和 [PyTorch](https://pytorch.org) 深度学习框架编写的. 此项目还包含用于评估跟踪器的python工具包.
+**PySOT** is a software system designed by SenseTime Video Intelligence Research team. It implements state-of-the-art single object tracking algorithms, including [SiamRPN](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_High_Performance_Visual_CVPR_2018_paper.html) and [SiamMask](https://arxiv.org/abs/1812.05050). It is written in Python and powered by the [PyTorch](https://pytorch.org) deep learning framework. This project also contains a Python port of toolkit for evaluating trackers.
 
-PySOT 以及支持了以下研究项目, 包括: [SiamRPN](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_High_Performance_Visual_CVPR_2018_paper.html), [DaSiamRPN](https://arxiv.org/abs/1808.06048), [SiamRPN++](https://arxiv.org/abs/1812.11703), 和[SiamMask](https://arxiv.org/abs/1812.05050).
+PySOT has enabled research projects, including: [SiamRPN](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_High_Performance_Visual_CVPR_2018_paper.html), [DaSiamRPN](https://arxiv.org/abs/1808.06048), [SiamRPN++](https://arxiv.org/abs/1812.11703), and [SiamMask](https://arxiv.org/abs/1812.05050).
 
 <div align="center">
   <img src="demo/output/bag_demo.gif" width="800px" />
@@ -120,7 +120,7 @@ If you meet problem, try searching our GitHub issues first. We intend the issues
 - [Fully-Convolutional Siamese Networks for Object Tracking](https://arxiv.org/abs/1606.09549).
   Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H. S. Torr.
   The European Conference on Computer Vision (ECCV) Workshops, 2016.
-
+  
 ## Contributors
 
 - [Fangyi Zhang](https://github.com/StrangerZhang)
